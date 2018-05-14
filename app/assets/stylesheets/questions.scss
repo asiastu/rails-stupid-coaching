@@ -1,0 +1,42 @@
+input.form {
+  border-radius: 5px 0px 0px 5px;
+  padding: 0px;
+  border-width: 1px;
+  height: 40px;
+  }
+  // Place all the styles related to the questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+.submit {
+  border-radius: 0px 5px 5px 0px;
+  height: 40px;
+}
+form {
+  display: flex;
+
+
+}
+
+input {
+  flex-grow: 1;
+
+}
+
+.container {
+padding: 40px;
+}
+
+p {
+  color: #98999B;
+  font-weight: lighter;
+}
+
+.question {
+  border-left: 5px solid #98999B;
+  padding-left: 10px;
+}
+.answer {
+  border-left: 5px solid #98999B;
+  padding-left: 10px;
+}
+
